@@ -1,0 +1,21 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies (not used — static site, but just in case)
+node_modules/
+
+# Deployment artefacts
+.cache/
+.vite/
+dist/
